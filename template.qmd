@@ -1,0 +1,19 @@
+---
+title: Manuscript title
+author:
+  - name: Author name
+    affiliation: Author affiliation
+    email: Email
+    orcid: ORCID
+research-title: Position
+date: 2026-08-14
+format:
+  shifu-cover-letter-typst:
+    signature: true
+---
+
+Dear editor,
+
+Lots of cool information
+
+This manuscript is original, has not been published previously, and is not under consideration for publication elsewhere. Thank you for considering our manuscript. We look forward to the opportunity to contribute to the journal.
