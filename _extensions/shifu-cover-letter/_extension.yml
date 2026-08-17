@@ -1,0 +1,18 @@
+title: Shifu-cover-letter
+author: C-Monaghan
+version: 1.0.0
+quarto-required: ">=1.9.0"
+contributes:
+  formats:
+    typst:
+      template-partials:
+        - typ/typst-template.typ
+        - typ/typst-show.typ
+
+      # Custom options
+      journal-name: Journal name     # What is the name of the journal
+      article-type:                  # What type of manuscript is it
+      manuscript-id:                 # Does the manuscript have an ID
+      editor-name: Editor name       # Who is the journal editor
+
+      signature: false               # Do you want to supply a signature at the end
