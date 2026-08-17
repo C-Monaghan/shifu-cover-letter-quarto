@@ -31,7 +31,7 @@ information typically included in an academic cover letter.
 
 ``` yaml
 title: Manuscript
-Title format:
+format:
   shifu-cover-letter:
     journal-name: "Journal Name"
     article-type: "Original Article"
