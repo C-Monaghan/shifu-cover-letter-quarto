@@ -9,7 +9,7 @@ research-title: Position
 date: 2026-08-14
 format:
   shifu-cover-letter-typst:
-    signature: true
+    signature: false
 ---
 
 Dear editor,
